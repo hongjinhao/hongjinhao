@@ -9,12 +9,12 @@ Welcome to my GitHub project portfolio! Here, I showcase projects that demonstra
 - Duration: 7 days.
 - Tools: Jupyter Notebook, ML algorithms.
 ### Singapore Scam Calls
-- Objective: Analyze data about scam calls and develop machine learning models to classify them.
+- Objective: Analyze data about scam calls and develop machine learning models to classify them. AIAP Assessment. 
 - Skills: Python (Seaborn, Pandas, Matplotlib, Sklearn), SQL, Docker, Git.
 - Difficulty: Medium.
 - Duration: 5 days.
 - Tools: GitHub Actions, Docker, ML models.
-
+- Repo: Private 
 
 ## 🧠 Reinforcement Learning:
 
@@ -25,12 +25,12 @@ Welcome to my GitHub project portfolio! Here, I showcase projects that demonstra
 ## 📈 Data Analysis
 
 ### **Cyclist Data Analysis**
-- **Objective**: Analyze data from a cycling company as part of a Google Analytics Certificate case study
-- **Skills**: Python (Seaborn, Pandas, Matplotlib), SQL, R, EDA
-- **Difficulty**: Easy
-- **Duration**: 2 days
-- **Tools**: Kaggle, Tableau
-- **Repository**: [Cyclist Data Analysis Project](https://github.com/hongjinhao/cycle_casestudy)
+- Objective: Analyze data from a cycling company as part of a Google Analytics Certificate case study
+- Skills: Python (Seaborn, Pandas, Matplotlib), SQL, R, EDA
+- Difficulty: Easy
+- Duration: 2 days
+- Tools: Kaggle, Tableau
+- Repo: [Cyclist Data Analysis Project](https://github.com/hongjinhao/cycle_casestudy)
 
 <!--
 **hongjinhao/hongjinhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
