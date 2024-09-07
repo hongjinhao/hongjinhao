@@ -25,11 +25,11 @@ Welcome to my GitHub project portfolio! Here, I showcase projects that demonstra
 ## 📈 Data Analysis
 
 ### **Cyclist Data Analysis**
-- **Objective**: Analyze data from a cycling company as part of a Google Analytics Certificate case study.
-- **Skills**: Python (Seaborn, Pandas, Matplotlib), SQL, Tableau, R.
-- **Difficulty**: Easy.
-- **Duration**: 1 day.
-- **Tools**: Kaggle, EDA, Tableau.
+- **Objective**: Analyze data from a cycling company as part of a Google Analytics Certificate case study
+- **Skills**: Python (Seaborn, Pandas, Matplotlib), SQL, R, EDA
+- **Difficulty**: Easy
+- **Duration**: 2 days
+- **Tools**: Kaggle, Tableau
 - **Repository**: [Cyclist Data Analysis Project](https://github.com/hongjinhao/cycle_casestudy)
 
 <!--
