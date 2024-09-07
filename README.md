@@ -22,6 +22,15 @@ Welcome to my GitHub project portfolio! Here, I showcase projects that demonstra
 
 ## 🤖 AI & App Development
 
+## 📈 Data Analysis
+
+### **Cyclist Data Analysis**
+- **Objective**: Analyze data from a cycling company as part of a Google Analytics Certificate case study.
+- **Skills**: Python (Seaborn, Pandas, Matplotlib), SQL, Tableau, R.
+- **Difficulty**: Easy.
+- **Duration**: 1 day.
+- **Tools**: Kaggle, EDA, Tableau.
+- **Repository**: [Cyclist Data Analysis Project](https://github.com/hongjinhao/cycle_casestudy)
 
 <!--
 **hongjinhao/hongjinhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
