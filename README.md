@@ -8,6 +8,7 @@ Welcome to my GitHub project portfolio! Here, I showcase projects that demonstra
 - Difficulty: Medium.
 - Duration: 7 days.
 - Tools: Jupyter Notebook, ML algorithms.
+- Repo: [Earthquake Prediciton](https://github.com/hongjinhao/Earthquake-prediction)
 ### Singapore Scam Calls
 - Objective: Analyze data about scam calls and develop machine learning models to classify them. AIAP Assessment. 
 - Skills: Python (Seaborn, Pandas, Matplotlib, Sklearn), SQL, Docker, Git.
