@@ -22,6 +22,7 @@ Welcome to my GitHub project portfolio! Here, I showcase projects that demonstra
 ## 🔐 Cybersecurity
 
 ## Web App
+### Personal Web App
 - Objective: Build a dynamic personal website
 - Skills: JavaScript (Express, Node.js), HTML, CSS, MySQL
 - Difficulty: Medium
