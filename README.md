@@ -21,7 +21,13 @@ Welcome to my GitHub project portfolio! Here, I showcase projects that demonstra
 
 ## 🔐 Cybersecurity
 
-## 🤖 AI & App Development
+## Web App
+- Objective: Build a dynamic personal website
+- Skills: JavaScript (Express, Node.js), HTML, CSS, MySQL
+- Difficulty: Medium
+- Duration: 2 weeks
+- Tools: Render, freesqldatabase, VSCode
+- Repo: [Frontend](https://github.com/hongjinhao/hongjinhao.github.io), [Backend](https://github.com/hongjinhao/hongjinhao.github.io_backend)
 
 ## 📈 Data Analysis
 
