@@ -1,20 +1,24 @@
 # My Project Portfolio
-Welcome to my GitHub project portfolio! Here, I showcase projects that demonstrate my technical expertise in RL, ML, app dev, and cybersecurity.
+Welcome to my GitHub project portfolio! Here I showcase some of my projects in ML, Web/Cloud, OS and Networking.  
 
-## 📊 Data Science & Machine Learning:
+## 📊 Data Analysis & ML:
+### **Cyclist Data Analysis**
+- Objective: Analyze data from a cycling company as part of a Google Analytics Certificate case study
+- Skills: Databases, EDA, Visualisations
+- Difficulty: Easy, 2 days
+- Tools: Kaggle, Tableau, MySQL, R, Python (Seaborn, Pandas, Matplotlib)
+- Repo: [Cyclist Data Analysis Project](https://github.com/hongjinhao/cycle_casestudy)
 ### Earthquake Prediction
-- Objective: Build machine learning models to predict the magnitude of earthquakes.
-- Skills: Python (Seaborn, Pandas, Matplotlib, Sklearn), EDA, Machine Learning.
-- Difficulty: Medium.
-- Duration: 7 days.
-- Tools: Jupyter Notebook, ML algorithms.
+- Objective: Build ML models to predict the magnitude of earthquakes.
+- Skills: EDA, ML - Model Training, Validation, Algorithm Selection, Hyperparameter Selection
+- Difficulty: Medium, 7 days.
+- Tools: Jupyter Notebook, Python (Seaborn, Pandas, Matplotlib, Sklearn)
 - Repo: [Earthquake Prediciton](https://github.com/hongjinhao/Earthquake-prediction)
 ### Singapore Scam Calls
-- Objective: Analyze data about scam calls and develop machine learning models to classify them. AIAP Assessment. 
-- Skills: Python (Seaborn, Pandas, Matplotlib, Sklearn), SQL, Docker, Git.
-- Difficulty: Medium.
-- Duration: 5 days.
-- Tools: GitHub Actions, Docker, ML models.
+- Objective: Analyze data about scam calls and develop ML models to classify them. AIAP Assessment. 
+- Skills: ML, CICD, Containerisation, Deployment, Source Control
+- Difficulty: Medium, 5 days.
+- Tools: GitHub Actions, Python (Seaborn, Pandas, Matplotlib, Sklearn), SQL, Docker, Git.
 - Repo: Private 
 
 ## 🧠 Reinforcement Learning:
@@ -25,20 +29,12 @@ Welcome to my GitHub project portfolio! Here, I showcase projects that demonstra
 ### Personal Web App
 - Objective: Build a dynamic personal website
 - Skills: JavaScript (Express, Node.js), HTML, CSS, MySQL
-- Difficulty: Medium
-- Duration: 2 weeks
+- Difficulty: Medium, 2 weeks
 - Tools: Render, freesqldatabase, VSCode
 - Repo: [Frontend](https://github.com/hongjinhao/hongjinhao.github.io), [Backend](https://github.com/hongjinhao/hongjinhao.github.io_backend)
 
-## 📈 Data Analysis
 
-### **Cyclist Data Analysis**
-- Objective: Analyze data from a cycling company as part of a Google Analytics Certificate case study
-- Skills: Python (Seaborn, Pandas, Matplotlib), SQL, R, EDA
-- Difficulty: Easy
-- Duration: 2 days
-- Tools: Kaggle, Tableau
-- Repo: [Cyclist Data Analysis Project](https://github.com/hongjinhao/cycle_casestudy)
+
 
 <!--
 **hongjinhao/hongjinhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
