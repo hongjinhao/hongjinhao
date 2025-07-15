@@ -2,7 +2,7 @@
 Welcome to my GitHub project portfolio! Here I showcase some of my projects in ML, Web/Cloud, OS and Networking.  
 
 ## 📊 Data Analysis & ML:
-### Affordable Housing ([Frontend], Backend+Training+API(private)) *Currently working on this
+### Affordable Housing ([Frontend](https://github.com/hongjinhao/affordable_housing_frontend), Backend+Training+API(private)) *Currently working on this
 - Objective: Gain insights and predict debt + tax credit award for affordable housing projects
 - Skills: Model/Data Pipeline (EDA, model selection, training, deployment)
 - Difficulty: Hard, 2 months
