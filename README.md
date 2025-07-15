@@ -4,9 +4,9 @@ Welcome to my GitHub project portfolio! Here I showcase some of my projects in M
 ## 📊 Data Analysis & ML:
 ### Affordable Housing ([Frontend](https://github.com/hongjinhao/affordable_housing_frontend), Backend+Training+API(Private)) *Currently working on this
 - Objective: Gain insights and predict debt + tax credit award for affordable housing projects
-- Skills: Model/Data Pipeline (EDA, model selection, training, deployment)
+- Skills: Model/Data Pipeline (EDA, model selection, training, deployment), Containerisation, Serverless Architecture, Reverse Proxy
 - Difficulty: Hard, 2 months
-- Tools: CookieCutter DS Template, Pandas, Numpy, seaborn, scikit-learn, AWS S3, API Gateway, Lambda, FastAPI
+- Tools: CookieCutter DS Template, Pandas, Numpy, seaborn, scikit-learn, AWS S3, API Gateway, Lambda, EC2, FastAPI, Docker
 
 ### [Cyclist Data Analysis](https://github.com/hongjinhao/cycle_casestudy)
 - Objective: Analyze data from a cycling company as part of a Google Analytics Certificate case study
