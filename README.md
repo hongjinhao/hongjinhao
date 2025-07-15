@@ -47,7 +47,7 @@ Welcome to my GitHub project portfolio! Here I showcase some of my projects in M
 ## Operating Systems
 ### Weenix - UNIX-like Operating System, USC (Private) 2025 
 - Objective: Build a toy operating system for CS402 
-- Skills: Large codebase, testing, OS concepts (process and threads, multithreading, file systems, virtual memory)
+- Skills: Large codebase, Testing, OS Design (process and threads, multithreading, file systems, virtual memory)
 - Difficulty: Hard, 2 months
 - Tools: C (gdb), git (Bitbucket), VSCode
 
