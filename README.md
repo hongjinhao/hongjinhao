@@ -26,17 +26,6 @@ Welcome to my GitHub project portfolio! Here I showcase some of my projects in M
 - Difficulty: Medium, 5 days.
 - Tools: GitHub Actions, Python (Seaborn, Pandas, Matplotlib, Sklearn), SQL, Docker, Git. 
 
-## 🧠 Reinforcement Learning:
-
-## 🔐 Cybersecurity
-
-## Web App
-### Personal Web App ([Frontend](https://github.com/hongjinhao/hongjinhao.github.io), [Backend](https://github.com/hongjinhao/hongjinhao.github.io_backend)) 2025
-- Objective: Build a dynamic personal website
-- Skills: Frontend languages, Backend frameworks, IDE, Databases, Deploying frontend and backend 
-- Difficulty: Medium, 2 weeks
-- Tools: Render, freesqldatabase, VSCode, JavaScript (Express, Node.js), HTML, CSS, MySQL, S3, Route53
-
 ## Networking
 ### Socket Programming (Private) 2025
 - Objective: Build a stock trading application based on the CLI
@@ -50,6 +39,14 @@ Welcome to my GitHub project portfolio! Here I showcase some of my projects in M
 - Skills: Large codebase, Testing, OS Design (process and threads, multithreading, file systems, virtual memory)
 - Difficulty: Hard, 2 months
 - Tools: C (gdb), git (Bitbucket), VSCode
+
+## Web App
+### Personal Web App ([Frontend](https://github.com/hongjinhao/hongjinhao.github.io), [Backend](https://github.com/hongjinhao/hongjinhao.github.io_backend)) 2025
+- Objective: Build a dynamic personal website
+- Skills: Frontend languages, Backend frameworks, IDE, Databases, Deploying frontend and backend 
+- Difficulty: Medium, 2 weeks
+- Tools: Render, freesqldatabase, VSCode, JavaScript (Express, Node.js), HTML, CSS, MySQL, S3, Route53
+
 
 
 
