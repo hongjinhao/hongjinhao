@@ -2,7 +2,12 @@
 Welcome to my GitHub project portfolio! Here I showcase some of my projects in ML, Web/Cloud, OS and Networking.  
 
 ## 📊 Data Analysis & ML:
-### 
+### Affordable Housing ([Frontend], Backend+Training+API(private)) *Currently working on this
+- Objective: Gain insights and predict debt + tax credit award for affordable housing projects
+- Skills: Model/Data Pipeline (EDA, model selection, training, deployment)
+- Difficulty: Hard, 2 months
+- Tools: CookieCutter DS Template, Pandas, Numpy, seaborn, scikit-learn, AWS S3, API Gateway, Lambda, FastAPI
+
 ### [Cyclist Data Analysis](https://github.com/hongjinhao/cycle_casestudy)
 - Objective: Analyze data from a cycling company as part of a Google Analytics Certificate case study
 - Skills: Databases, EDA, Visualisations
@@ -30,21 +35,21 @@ Welcome to my GitHub project portfolio! Here I showcase some of my projects in M
 - Objective: Build a dynamic personal website
 - Skills: Frontend languages, Backend frameworks, IDE, Databases, Deploying frontend and backend 
 - Difficulty: Medium, 2 weeks
-- Tools: Render, freesqldatabase, VSCode, JavaScript (Express, Node.js), HTML, CSS, MySQL
+- Tools: Render, freesqldatabase, VSCode, JavaScript (Express, Node.js), HTML, CSS, MySQL, S3, Route53
 
 ## Networking
 ### Socket Programming (Private)
 - Objective: Build a stock trading application based on the CLI
-- Skills: Sockets (UDP and TCP), Client-Server Microservice Architecture 
+- Skills: Sockets Programming (UDP and TCP), Client-Server Microservice Architecture, 
 - Difficulty: Medium, 2 weeks
-- Tools: C and C++, 
+- Tools: C and C++, Bash
 
 ## Operating Systems
 ### Weenix - UNIX-like Operating System, USC (Private)
 - Objective: Build a toy operating system for CS402 
 - Skills: Large codebase, testing, OS concepts (process and threads, multithreading, file systems, virtual memory)
 - Difficulty: Hard, 2 months
-- Tools: C (gdb), git (bitbucket), VSCode, 
+- Tools: C (gdb), git (Bitbucket), VSCode
 
 
 
