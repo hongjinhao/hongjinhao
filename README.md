@@ -43,12 +43,17 @@ Welcome to my GitHub project portfolio! Here I showcase some of my projects in M
 ## Web App
 ### Personal Web App ([Frontend](https://github.com/hongjinhao/hongjinhao.github.io), [Backend](https://github.com/hongjinhao/hongjinhao.github.io_backend)) 2025
 - Objective: Build a dynamic personal website
-- Skills: Frontend languages, Backend frameworks, IDE, Databases, Deploying frontend and backend 
+- Skills: Frontend languages, Backend frameworks, IDE, Databases, Deploying frontend and backend, DNS, CORS 
 - Difficulty: Medium, 2 weeks
-- Tools: Render, freesqldatabase, VSCode, JavaScript (Express, Node.js), HTML, CSS, MySQL, S3, Route53
+- Tools: Render, freesqldatabase, Github Pages, VSCode, JavaScript (Express, Node.js), HTML, CSS, MySQL, S3, Route53
 
 
-
+## Chatbots
+### [StudyBuddy](https://github.com/hongjinhao/StuddyBuddy) 2023
+- Objective: Help students learn better with LLMs
+- Skills: APIs, SDKs, Cloud Computing, latency problems, Optical Character Recognition (OCR), SSH
+- Difficulty: Hard, 2 months
+- Tools: AWS EC2, MathPix API, OpenAI SDK, 
 
 <!--
 **hongjinhao/hongjinhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
