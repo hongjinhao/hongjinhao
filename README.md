@@ -28,11 +28,26 @@ Welcome to my GitHub project portfolio! Here I showcase some of my projects in M
 ## Web App
 ### Personal Web App
 - Objective: Build a dynamic personal website
-- Skills: JavaScript (Express, Node.js), HTML, CSS, MySQL
+- Skills: Frontend languages, Backend frameworks, IDE, Databases, Deploying frontend and backend 
 - Difficulty: Medium, 2 weeks
-- Tools: Render, freesqldatabase, VSCode
+- Tools: Render, freesqldatabase, VSCode, JavaScript (Express, Node.js), HTML, CSS, MySQL
 - Repo: [Frontend](https://github.com/hongjinhao/hongjinhao.github.io), [Backend](https://github.com/hongjinhao/hongjinhao.github.io_backend)
 
+## Networking
+### Socket Programming 
+- Objective: Build a stock trading application based on the CLI
+- Skills: Sockets (UDP and TCP), Client-Server Microservice Architecture 
+- Difficulty: Medium, 2 weeks
+- Tools: C and C++, 
+- Repo: private
+
+## Operating Systems
+### Weenix - UNIX-like Operating System, USC
+- Objective: Build a toy operating system for CS402 
+- Skills: Large codebase, testing, OS concepts (process and threads, multithreading, file systems, virtual memory)
+- Difficulty: Hard, 2 months
+- Tools: C (gdb), git (bitbucket), VSCode, 
+- Repo: Private
 
 
 
