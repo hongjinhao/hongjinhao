@@ -2,7 +2,7 @@
 Welcome to my GitHub project portfolio! Here I showcase some of my projects in ML, Web/Cloud, OS and Networking.  
 
 ## 📊 Data Analysis & ML:
-### Affordable Housing ([Frontend](https://github.com/hongjinhao/affordable_housing_frontend), Backend+Training+API(Private)) 2025 *Currently working on this
+### Affordable Housing ([Frontend](https://github.com/hongjinhao/affordable_housing_frontend), [Backend+Training+API](https://github.com/hongjinhao/affordable_housing)
 - Objective: Gain insights and predict debt + tax credit award for affordable housing projects
 - Skills: Model/Data Pipeline (EDA, model selection, training, deployment), Containerisation, Serverless Architecture, Reverse Proxy
 - Difficulty: Hard, 2 months
@@ -41,6 +41,12 @@ Welcome to my GitHub project portfolio! Here I showcase some of my projects in M
 - Tools: C (gdb), git (Bitbucket), VSCode
 
 ## Web App
+### [USC Free Food Finder](https://github.com/hongjinhao/usc-free-food)
+- Objective: Web app to find free food in USC
+- Skills: Frontend Frameworks, Deployment services, Database
+- Difficulty: Medium, 1 week
+- Tools: React, Vite, Vercel, Cron job, HTML, CSS, JS
+
 ### Personal Web App ([Frontend](https://github.com/hongjinhao/hongjinhao.github.io), [Backend](https://github.com/hongjinhao/hongjinhao.github.io_backend)) 2025
 - Objective: Build a dynamic personal website
 - Skills: Frontend languages, Backend frameworks, IDE, Databases, Deploying frontend and backend, DNS, CORS 
