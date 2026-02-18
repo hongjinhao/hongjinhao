@@ -2,7 +2,7 @@
 Welcome to my GitHub project portfolio! Here I showcase some of my projects in ML, Web/Cloud, OS and Networking.  
 
 ## 📊 Data Analysis & ML:
-### Affordable Housing ([Frontend](https://github.com/hongjinhao/affordable_housing_frontend), [Backend+Training+API](https://github.com/hongjinhao/affordable_housing))
+### Affordable Housing ([Frontend](https://github.com/hongjinhao/affordable_housing_frontend), [Backend+Training+API](https://github.com/hongjinhao/affordable_housing)) 2025
 - Objective: Gain insights and predict debt + tax credit award for affordable housing projects
 - Skills: Model/Data Pipeline (EDA, model selection, training, deployment), Containerisation, Serverless Architecture, Reverse Proxy
 - Difficulty: Hard, 2 months
@@ -41,7 +41,13 @@ Welcome to my GitHub project portfolio! Here I showcase some of my projects in M
 - Tools: C (gdb), git (Bitbucket), VSCode
 
 ## Web App
-### [USC Free Food Finder](https://github.com/hongjinhao/usc-free-food)
+### Kidslink Children's Clinic Website [Website](https://www.kidslink.com.sg), [Repo](https://github.com/hongjinhao/kidslink) 2026
+- Objective: Migrate a medical practice website from Wix to a high-performance custom static site to improve mobile experience and SEO while reducing costs.
+- Skills: Mobile-First Design, SEO Optimization (Schema Markup, OpenGraph), Migration Strategy, Performance Optimization.
+- Difficulty: Medium, 1 weeks
+- Tools: HTML5, CSS3, Vanilla JavaScript
+
+### USC Free Food Finder [Website](https://usc-free-food2.vercel.app), [Repo](https://github.com/hongjinhao/usc-free-food) 2025
 - Objective: Web app to find free food in USC
 - Skills: Frontend Frameworks, Deployment services, Database
 - Difficulty: Medium, 1 week
