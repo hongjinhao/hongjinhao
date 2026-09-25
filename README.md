@@ -1,7 +1,20 @@
 # My Project Portfolio
-Welcome to my GitHub project portfolio! Here I showcase some of my projects in ML, Web/Cloud, OS and Networking.  
+Welcome to my GitHub project portfolio! Here I showcase some of my projects in Compilers/Systems, ML, Web/Cloud, OS and Networking.  
+
+## Compilers & Systems
+### Cadence TIE Compiler Internship (Private) 2025
+- Objective: Migrate a hand-rolled refcounted C string type to modern C++ across a production compiler codebase, and prototype replacing a proprietary dataflow optimization engine with LLVM's MLIR
+- Skills: Large-scale C++ migration, performance profiling (callgrind, perf), compiler internals (DFG, MLIR), AI-assisted refactoring at scale
+- Difficulty: Hard, ~3 months
+- Tools: C++17, LLVM/MLIR, callgrind, perf, git
 
 ## 📊 Data Analysis & ML:
+### HLA Allele Frequency & Peptide Matching Pipeline ([Repo](https://github.com/hongjinhao/allelefreq)) 2025
+- Objective: Build a reliable pipeline for global/per-population HLA allele frequencies to feed an immunogenicity model, and a fast peptide-to-proteome matching search to screen for autoimmune risk
+- Skills: Data cleaning/QC pipelines, algorithm design (hash-indexed search), Python to C++ porting, statistical aggregation methods
+- Difficulty: Medium, ongoing
+- Tools: Python (Pandas, pytest), C++, Census/ACS & IPUMS PUMS data
+
 ### Affordable Housing ([Frontend](https://github.com/hongjinhao/affordable_housing_frontend), [Backend+Training+API](https://github.com/hongjinhao/affordable_housing)) 2025
 - Objective: Gain insights and predict debt + tax credit award for affordable housing projects
 - Skills: Model/Data Pipeline (EDA, model selection, training, deployment), Containerisation, Serverless Architecture, Reverse Proxy
