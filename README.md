@@ -54,6 +54,12 @@ Welcome to my GitHub project portfolio! Here I showcase some of my projects in C
 - Tools: C (gdb), git (Bitbucket), VSCode
 
 ## Web App
+### Story Interactive [Website](https://story-interactive.vercel.app/), [Repo](https://github.com/hongjinhao/story-interactive) 2026
+- Objective: AI choose-your-own-adventure game where an LLM writes each story live as players choose paths or type their own actions
+- Skills: Full-stack design (layered API, REST), Tree data modeling in SQL, Concurrency-safe writes (DB constraints), LLM structured output, Testing with a fake LLM, Self-hosted backend tunneling
+- Difficulty: Medium, 4 days
+- Tools: FastAPI, PostgreSQL, Docker, Pydantic, pytest, xAI Grok API, React, TypeScript, Vite, Tailwind CSS, Vercel, Tailscale Funnel
+
 ### Kidslink Children's Clinic Website [Website](https://www.kidslink.com.sg), [Repo](https://github.com/hongjinhao/kidslink) 2026
 - Objective: Migrate a medical practice website from Wix to a high-performance custom static site to improve mobile experience and SEO while reducing costs.
 - Skills: Mobile-First Design, SEO Optimization (Schema Markup, OpenGraph), Migration Strategy, Performance Optimization.
@@ -72,13 +78,6 @@ Welcome to my GitHub project portfolio! Here I showcase some of my projects in C
 - Difficulty: Medium, 2 weeks
 - Tools: Render, freesqldatabase, Github Pages, VSCode, JavaScript (Express, Node.js), HTML, CSS, MySQL, S3, Route53
 
-
-## Chatbots
-### [StudyBuddy](https://github.com/hongjinhao/StuddyBuddy) 2023
-- Objective: Help students learn better with LLMs
-- Skills: APIs, SDKs, Cloud Computing, latency problems, Optical Character Recognition (OCR), SSH
-- Difficulty: Hard, 2 months
-- Tools: AWS EC2, MathPix API, OpenAI SDK, 
 
 <!--
 **hongjinhao/hongjinhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
